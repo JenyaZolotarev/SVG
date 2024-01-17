@@ -1,0 +1,14 @@
+<svg viewBox="187.699 228.58 120.572 48.022" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter color-interpolation-filters="sRGB" id="F01">
+      <feGaussianBlur stdDeviation="6.6"></feGaussianBlur>
+    </filter>
+  </defs>
+  <g transform="matrix(0.285003, 0, 0, 0.285003, 74.903214, 80.778976)">
+    <title>Submarine Baffles</title>
+    <defs></defs>
+    <rect width="60" height="349.998" rx="120" ry="120" x="270.002" y="30" style="color: black; fill: black; stroke: none; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0, 1, -1, 0, 308.79607, 397.843868)"></rect>
+    <rect width="50" height="4" rx="40" ry="6.263" x="275.002" y="378.998" style="transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0, 1, -1, 0, 132.797077, 221.844875)"></rect>
+    <rect width="60" height="16" rx="1" ry="1" x="270.002" y="358.998" style="fill: black; stroke: none; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0, 1, -1, 0, 146.797077, 235.844844)"></rect>
+  </g>
+</svg>
